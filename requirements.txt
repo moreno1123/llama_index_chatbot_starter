@@ -1,0 +1,6 @@
+uvicorn
+python-dotenv
+fastapi
+llama-index
+llama-index-agent-openai
+llama-index-llms-groq
